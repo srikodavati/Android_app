@@ -1,1 +1,3 @@
 Android app .
+
+A comprehensive and interactive experience with weather and map functionalities. Through the app, users can sign up, log in, and personalize their experience by adding or removing cities, thereby tailoring the weather information and map views to their preferences. The application integrates weather APIs to provide real-time weather updates and uses Google Map API for detailed map interactions, ensuring users have access to accurate and current location-based information. This project emphasizes user engagement and practical utility, combining technical sophistication with user-friendly design to meet the diverse needs of its audience.
